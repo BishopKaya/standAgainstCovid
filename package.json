@@ -1,0 +1,14 @@
+{
+  "name": "standagainstcovid19",
+  "version": "1.0.0",
+  "description": "connet people to ray against COVID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akeju paul",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.8.0"
+  }
+}

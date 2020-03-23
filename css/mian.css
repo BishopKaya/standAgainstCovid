@@ -1,0 +1,78 @@
+body{
+    width:100%;
+    background-size: cover;
+
+}
+.mymy{
+    height: 90vh;
+    width: 100vw;
+    background: url(../images/pray-3611519.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.pop-scripture{
+    display: block !important;
+    text-align: center;
+    margin:0 10vw;
+    padding-top: 100px;
+    /* padding: 20px auto; */
+    
+}
+.pop-scripture>.real-scripture{
+    font-size: 30px;
+}
+.pop-scripture>h5{
+    text-align: center;
+    font-weight: bold;
+   
+}
+.dQuote{
+    margin-bottom: 30px;
+}
+.info-data{
+    padding-top: 25px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.prayer-ft{
+    padding:0 40px;
+    padding-top: 30px;
+}
+.prayer-ft>p{
+    margin-top: 40px;
+    padding:0 35px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    
+}
+h3{
+    font-weight: bold;
+    font-size: 25px;
+}
+.image-ft{
+    height: 70vh;
+    width: auto;
+    background: url(../images/religion-3443282_1920.jpg) center no-repeat;
+    background-size: cover;
+}
+.is-divider{
+    width:100px;
+}
+.image2-ft{
+    height: 70vh;
+    width: auto;
+    background: url(../images/cross-2598303_1920.jpg) center no-repeat;
+    background-size: cover;
+}
+.new-section{
+    margin-top: 10px;
+}
+.contact-ft{
+    padding: 0 30px;
+    padding-top: 60px;
+}
+.footer{
+    height: 30px;
+    margin-top: 20px;
+}
